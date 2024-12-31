@@ -1,0 +1,5 @@
+Write a program to display process statements before and after forking
+Write a program to display process statements before and after forking
+To write a program for implementing Directory management using the following system calls of the UNIX operating system: opendir, readdir.
+Explain in detail Bankers Algorithm.
+
